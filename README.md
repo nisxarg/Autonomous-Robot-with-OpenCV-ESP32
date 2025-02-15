@@ -19,3 +19,5 @@ ESP32 for wireless communication and motor control.
 L298N Motor Driver to control the robot's motors.
 
 Python for the main logic and OpenCV integration.
+
+VIDEO : https://www.youtube.com/watch?v=xI4xcCoWHP8
